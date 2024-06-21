@@ -1,5 +1,5 @@
 # BYCT-Data-Science-Challenge-Week-1
-This Challenge aims to empower tech ethusiastics (like ME), applying for data scientist role at leading tech compamy to grow an attractive portfolio by demonstrating proficiency in Numpy.
+This challenge aims to empower tech ethusiastics (like ME), applying for data scientist role at leading tech compamy to grow an attractive portfolio by demonstrating proficiency in Numpy.
 
 Understanding Numpy:
 NumPy is a core library for numerical computing in Python. 
